@@ -4,7 +4,9 @@ Cryptic World is a Project that uses a Crypto API, to fetch data about Crypto Cu
 
 # Live demo
 
-not yet...
+here is a live demo of the site
+
+https://www.loom.com/share/0a83e451b9db469e8c2fd6ac5f220fbf
 
 # Prerequisites
 
@@ -18,6 +20,10 @@ NPM Package Manager
 Clone this repository to your desired folder:
 
 git clone https://github.com/david63011/React-Capstone-Crypto-Market.git
+
+# Install
+
+to install this program run npm install
 
 # test
 

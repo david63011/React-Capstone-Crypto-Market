@@ -2,7 +2,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { fetchDetail } from '../Redux/DetailSlice';
 import { useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import back2 from './images/back2.png';
+import back2 from '../images/back2.png';
 const Details = () => {
   const navigate = useNavigate();
   const { id } = useParams();

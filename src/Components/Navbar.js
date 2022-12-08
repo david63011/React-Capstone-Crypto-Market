@@ -1,6 +1,6 @@
-import logo from './images/dollars.png';
-import logo2 from './images/bull.png';
-import logo3 from './images/oso.png';
+import logo from '../images/dollars.png';
+import logo2 from '../images/bull.png';
+import logo3 from '../images/oso.png';
 function NavBar() {
   return (
     <div className="NavBar">

@@ -6,17 +6,26 @@ Cryptic World is a Project that uses a Crypto API, to fetch data about Crypto Cu
 
 not yet...
 
-# Install
+# Prerequisites
 
-type npm install
+In order to run this project you need:
 
-# start
+Node.js
+NPM Package Manager
 
-to start the project type npm start
+# Setup
+
+Clone this repository to your desired folder:
+
+git clone https://github.com/david63011/React-Capstone-Crypto-Market.git
 
 # test
 
 to write tests type npm run test
+
+# Deployment
+
+you can deploy this project by using npm run deply
 
 # Author
 
@@ -28,6 +37,10 @@ Twitter: david630
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
+
+# 🙏 Acknowledgments
+
+I would like to thank Nelson Sakwa on Behance for the Original design idea.
 
 # ⭐️ Show your support
 

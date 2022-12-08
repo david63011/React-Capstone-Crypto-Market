@@ -1,9 +1,9 @@
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchCryptoData } from '../Pages/Redux/CryptoSlice';
+import { fetchCryptoData } from '../Redux/CryptoSlice';
 import { useEffect, useState } from 'react';
 import search from './images/search.png';
 import { Link } from 'react-router-dom';
-import NavBar from './Navbar';
+import NavBar from '../Components/Navbar';
 
 const Main = () => {
   const dispatch = useDispatch();

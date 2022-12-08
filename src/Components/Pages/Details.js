@@ -2,8 +2,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { fetchDetail } from './Redux/DetailSlice';
 import { useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import back from './images/back.png';
-
+import back2 from './images/back2.png';
 const Details = () => {
   const navigate = useNavigate();
   const { id } = useParams();
@@ -19,7 +18,7 @@ const Details = () => {
         <img
           onClick={() => navigate(-1)}
           className="img-money"
-          src={back}
+          src={back2}
           alt="/"
         ></img>
         <div className="imageheader">

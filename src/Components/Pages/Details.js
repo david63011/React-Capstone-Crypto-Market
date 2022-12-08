@@ -29,7 +29,7 @@ const Details = () => {
         <div className="detailList">
           <ul>
             <li>Ranking: {crcdetail.rank}</li>
-            <li>Current Price $: {crcdetail.price}</li>
+            <li>The Current Price $: {crcdetail.price}</li>
             <li>Market Cap: {crcdetail.marketCap}</li>
             <li>Volume: {crcdetail.volume}</li>
             <li>Total Supply: {crcdetail.totalSupply}</li>

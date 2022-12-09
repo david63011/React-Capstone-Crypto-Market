@@ -1,12 +1,20 @@
-# Crypto Market
+# 📖 Crypto Market
 
 Cryptic World is a Project that uses a Crypto API, to fetch data about Crypto Currencies. You can see all the basic information about the coins on the home page and you can filter them to find a specific coin. You can also click on a coin to find more information about that specific coin.
+
+# 🛠 Built With
+
+React
+Redux
+CSS
 
 # Live demo
 
 here is a live demo of the site
 
 https://www.loom.com/share/0a83e451b9db469e8c2fd6ac5f220fbf
+
+# 💻 Getting Started
 
 # Prerequisites
 
@@ -37,6 +45,10 @@ you can deploy this project by using npm run deply
 
 Github: @avid63011
 Twitter: david630
+
+# 🔭 Future Features
+
+The abilty to filter not only by name but also by price
 
 # Contributing
 

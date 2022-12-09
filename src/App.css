@@ -190,3 +190,13 @@ ul li:nth-child(odd) {
 ul li:nth-child(even) {
   background: #4831d4;
 }
+
+ul li:nth-child(1) {
+  background: #f1f1f1;
+}
+
+@media screen and (max-width: 600px) {
+  .textInput {
+    width: 300px;
+  }
+}

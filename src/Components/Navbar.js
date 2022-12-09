@@ -4,7 +4,7 @@ import logo3 from '../images/oso.png';
 function NavBar() {
   return (
     <div className="NavBar">
-      <h1 className="logoname">Crypto Market</h1>
+      <h1 className="logoname">The Crypto Market</h1>
       <div className="icons">
         <img className="img-money" src={logo2} alt="/"></img>
         <img className="img-money" src={logo} alt="/"></img>
